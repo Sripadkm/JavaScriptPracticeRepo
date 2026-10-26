@@ -1,0 +1,14 @@
+let a=5;
+let b=5;
+let c=11;
+let d=9;
+console.log(a==b);
+console.log(a!=b);
+console.log(c>d);
+console.log(c<d);
+console.log(c>=d);
+console.log(c<=d);
+console.log(9==9);
+console.log(9=='9');
+console.log(9===9);
+console.log(9==='9');
